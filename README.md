@@ -1,4 +1,4 @@
-# (https://github.com/MyraValenzuela-FIS/MyraValenzuela-Repo/blob/Sample-Branch/images/bg.jpg)](https://www.pluralsight.com/etc.clientlibs/pluralsight/clientlibs/clientlib-main/resources/images/logos/pluralsight-logo.png). Sample image
+# ![Pluralsight Logo].(https://github.com/MyraValenzuela-FIS/MyraValenzuela-Repo/blob/Sample-Branch/images/bg.jpg)](https://www.pluralsight.com/etc.clientlibs/pluralsight/clientlibs/clientlib-main/resources/images/logos/pluralsight-logo.png). Sample image
 
 ## GitHub Foundations: Git and GitHub
 in this course, you will learn how to use GitHub successfully
