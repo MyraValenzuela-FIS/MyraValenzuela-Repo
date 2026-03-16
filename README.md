@@ -1,4 +1,4 @@
-# ![Pluralsight Logo](https://upload.wikimedia.org/wikipedia/commons/4/4f/Pluralsight_2020_logo.svg)
+# ![Pluralsight Logo]((https://upload.wikimedia.org/wikipedia/commons/e/ec/Pluralsight_Logo.svg).
 
 ## GitHub Foundations: Git and GitHub
 in this course, you will learn how to use GitHub successfully
@@ -7,3 +7,4 @@ in this course, you will learn how to use GitHub successfully
 -understand the use of  GitHub
 -Create repositories
 -Work with Git and GitHub locally
+
